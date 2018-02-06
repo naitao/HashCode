@@ -2,6 +2,11 @@
 # Date: 2018.2.3.
 # Progress: finished Data initializtion (2 hours coding)
 
+# v1.1
+# Date: 2018.2.6
+# Progress: implemented on 2 cells combining one 'T' and one 'M',
+# 	based on small.in data set
+
 import sys
 
 def categorize(dict):
